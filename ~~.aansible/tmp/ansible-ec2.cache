@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "hostvars": {
+      "34.242.193.47": {
+        "ansible_host": "34.242.193.47", 
+        "ec2__in_monitoring_element": false, 
+        "ec2_account_id": "431372468987", 
+        "ec2_ami_launch_index": "0", 
+        "ec2_architecture": "x86_64", 
+        "ec2_block_devices": {
+          "xvda": "vol-080aaba34df2882a3"
+        }, 
+        "ec2_client_token": "ansib-insta-1MPEHJ715TPJ8", 
+        "ec2_dns_name": "ec2-34-242-193-47.eu-west-1.compute.amazonaws.com", 
+        "ec2_ebs_optimized": false, 
+        "ec2_eventsSet": "", 
+        "ec2_group_name": "", 
+        "ec2_hypervisor": "xen", 
+        "ec2_id": "i-00d87477c9d34ec98", 
+        "ec2_image_id": "ami-d834aba1", 
+        "ec2_instance_profile": "", 
+        "ec2_instance_type": "t2.micro", 
+        "ec2_ip_address": "34.242.193.47", 
+        "ec2_item": "", 
+        "ec2_kernel": "", 
+        "ec2_key_name": "EffectiveDevOpsAWS", 
+        "ec2_launch_time": "2018-01-20T11:10:26.000Z", 
+        "ec2_monitored": false, 
+        "ec2_monitoring": "", 
+        "ec2_monitoring_state": "disabled", 
+        "ec2_persistent": false, 
+        "ec2_placement": "eu-west-1b", 
+        "ec2_platform": "", 
+        "ec2_previous_state": "", 
+        "ec2_previous_state_code": 0, 
+        "ec2_private_dns_name": "ip-172-31-19-141.eu-west-1.compute.internal", 
+        "ec2_private_ip_address": "172.31.19.141", 
+        "ec2_public_dns_name": "ec2-34-242-193-47.eu-west-1.compute.amazonaws.com", 
+        "ec2_ramdisk": "", 
+        "ec2_reason": "", 
+        "ec2_region": "eu-west-1", 
+        "ec2_requester_id": "", 
+        "ec2_root_device_name": "/dev/xvda", 
+        "ec2_root_device_type": "ebs", 
+        "ec2_security_group_ids": "sg-0b32d271", 
+        "ec2_security_group_names": "ansible-SecurityGroup-1JLBW5A89DW36", 
+        "ec2_sourceDestCheck": "true", 
+        "ec2_spot_instance_request_id": "", 
+        "ec2_state": "running", 
+        "ec2_state_code": 16, 
+        "ec2_state_reason": "", 
+        "ec2_subnet_id": "subnet-c7584e8e", 
+        "ec2_tag_aws_cloudformation_logical_id": "instance", 
+        "ec2_tag_aws_cloudformation_stack_id": "arn:aws:cloudformation:eu-west-1:431372468987:stack/ansible/7f6f2780-fdd2-11e7-af7d-50a686340229", 
+        "ec2_tag_aws_cloudformation_stack_name": "ansible", 
+        "ec2_virtualization_type": "hvm", 
+        "ec2_vpc_id": "vpc-5238dc34"
+      }
+    }
+  }, 
+  "ami_d834aba1": [
+    "34.242.193.47"
+  ], 
+  "ec2": [
+    "34.242.193.47"
+  ], 
+  "eu-west-1": [
+    "34.242.193.47"
+  ], 
+  "eu-west-1b": [
+    "34.242.193.47"
+  ], 
+  "i-00d87477c9d34ec98": [
+    "34.242.193.47"
+  ], 
+  "key_EffectiveDevOpsAWS": [
+    "34.242.193.47"
+  ], 
+  "platform_undefined": [
+    "34.242.193.47"
+  ], 
+  "security_group_ansible_SecurityGroup_1JLBW5A89DW36": [
+    "34.242.193.47"
+  ], 
+  "tag_aws_cloudformation_logical_id_instance": [
+    "34.242.193.47"
+  ], 
+  "tag_aws_cloudformation_stack_id_arn_aws_cloudformation_eu_west_1_431372468987_stack_ansible_7f6f2780_fdd2_11e7_af7d_50a686340229": [
+    "34.242.193.47"
+  ], 
+  "tag_aws_cloudformation_stack_name_ansible": [
+    "34.242.193.47"
+  ], 
+  "type_t2_micro": [
+    "34.242.193.47"
+  ], 
+  "vpc_id_vpc_5238dc34": [
+    "34.242.193.47"
+  ]
+}
