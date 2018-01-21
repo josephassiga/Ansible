@@ -1,0 +1,6 @@
+---
+- name: "{{target | default('localhost')}}"
+  become: yes
+  roles:
+    - jenkins
+    - nodejsgit
