@@ -9,7 +9,7 @@
   yum_repository:
     name: jenkins
     description: jenkins repository
-    baseurl: https://pkg.jenkins-ci.io/redhat/
+    baseurl: https://pkg.jenkins-ci.io/redhat
     enabled: no
     gpgcheck: yes
 
